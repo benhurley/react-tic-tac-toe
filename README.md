@@ -1,6 +1,6 @@
 # React Tic-Tac-Toe
 
-![app screenshot](../public/screenshot.png)
+![app screenshot](./public/screenshot.png)
 
 Worked through the React tutorial online and also added some of my own features
 
