@@ -1,0 +1,15 @@
+.square {
+    background: rgb(104, 104, 104);
+    border: 5px solid rgb(27, 27, 27);
+    float: left;
+    font-size: 240px;
+    font-weight: bold;
+    color: white;
+    line-height: 34px;
+    height: 200px;
+    margin-right: -1px;
+    margin-top: -1px;
+    padding-bottom: 12px;
+    text-align: center;
+    width: 200px;
+}

@@ -1,0 +1,25 @@
+body {
+    font: 14px "Century Gothic", Futura, sans-serif;
+    margin: 20px;
+    color: white;
+  }
+  
+  ol, ul {
+    padding-left: 30px;
+  }
+  
+  .status {
+    margin-bottom: 10px;
+  }
+  
+  .square:focus {
+    outline: none;
+  }
+  
+  .kbd-navigation .square:focus {
+    background: #ddd;
+  }
+  
+  html {
+    background-color: rgb(27, 27, 27);
+  }
