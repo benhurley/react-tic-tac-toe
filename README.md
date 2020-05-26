@@ -1,3 +1,15 @@
+# React Tic-Tac-Toe
+
+![app screenshot](../public/screenshot.png)
+
+Worked through the React tutorial online and also added some of my own features
+
+Custom enhancements:
+1. When no one wins, display a message about the result being a draw.
+2. Separate code into separate files, organize components and styles
+
+-------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
