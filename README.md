@@ -1,4 +1,5 @@
 # React Tic-Tac-Toe
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1c5ba382-d320-450a-b1c3-c42a5c023d79/deploy-status)](https://app.netlify.com/sites/tic-tac-react/deploys)
 
 ![app screenshot](./public/screenshot.png)
 
